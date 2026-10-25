@@ -120,8 +120,5 @@ finance-transactions-dashboard/
 
 ---
 
-## Author
 
-**Prisha Shah**
-M.Sc. Applied Data Science, SRM Institute of Science and Technology
 [LinkedIn](https://www.linkedin.com/in/prisha-shah2245) | [GitHub](https://github.com/Prisha-22)
